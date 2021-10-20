@@ -1,0 +1,5 @@
+#this is an image recongiton program, utilizing opencv and looking at other alternatives. Even doing some pyautogui to do some macros
+
+Macro V. Micros
+
+We do Micros computers do macros, we are adaptable they are not.
